@@ -1,0 +1,99 @@
+body {
+    background-color: #555;
+    color: #fff;
+}
+
+#main-navbar {
+    border-bottom: #fff 1px solid;
+    padding: 2px 0;
+}
+
+.navbar-brand fa {
+    font-size: 15px;
+}
+
+.primary-bg-color {
+    background-color: #801515;
+}
+
+.primary-color {
+    color: #801515;
+}
+
+.text-muted {
+    color: #555;
+}
+
+.btn-danger {
+    background-color: #801515;
+    border-color: #801515;
+}
+
+.btn-danger:hover {
+    background-color: #580101;
+    border-color: #555;
+}
+
+.btn-outline-danger {
+    color: #801515;
+    border-color: #801515;
+}
+
+.btn-outline-danger:hover {
+    border-color: #801515;
+    background-color: #801515;
+}
+
+#home-section {
+    background: url("../img/bg.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#home-text {
+    font-size: 2rem;
+}
+
+#pistola-head {
+    opacity: 0.8;
+    background: url('../img/shooting-pistol.jpg') no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#revolver-head {
+    opacity: 0.8;
+    background: url('../img/shooting-revolver.jpg') no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#rifle-head {
+    opacity: 0.8;
+    background: url('../img/shooting-rifle.jpg') no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.dark-overlay {
+    background: rgba(0,0,0,0.6);
+}
+
+.section-inner {
+    padding: 250px 0;
+}
+
+.home-inner {
+    padding-top: 150px;
+    min-height: 700px;
+}
+
+.card-form {
+    padding: 20px;
+}
+
+#testemunhos h3 {
+    border-bottom: #801515 1px solid;
+    width: 50%;
+    margin: 0 auto;
+}
