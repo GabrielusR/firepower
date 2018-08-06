@@ -76,7 +76,7 @@ body {
 }
 
 .dark-overlay {
-    background: rgba(0,0,0,0.6);
+    background: rgba(0, 0, 0, 0.6);
 }
 
 .section-inner {
@@ -96,4 +96,8 @@ body {
     border-bottom: #801515 1px solid;
     width: 50%;
     margin: 0 auto;
+}
+
+#main-footer {
+    font-size: .9rem;
 }
