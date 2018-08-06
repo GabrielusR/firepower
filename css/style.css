@@ -56,21 +56,21 @@ body {
 
 #pistola-head {
     opacity: 0.8;
-    background: url('../img/shooting-pistol.jpg') no-repeat center;
+    background: url('../img/shooting-pistol.jpg') no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
 }
 
 #revolver-head {
     opacity: 0.8;
-    background: url('../img/shooting-revolver.jpg') no-repeat center;
+    background: url('../img/shooting-revolver.jpg') no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
 }
 
 #rifle-head {
     opacity: 0.8;
-    background: url('../img/shooting-rifle.jpg') no-repeat center;
+    background: url('../img/shooting-rifle.jpg') no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
 }
